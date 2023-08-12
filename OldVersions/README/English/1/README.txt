@@ -19,7 +19,7 @@
 
 I only used Instagram for 1 day, playing with filters, then just completely abandoning it. I just applied some filters to my old YouTube channel logo, and somehow received over 100 followers for this. I didn't have much interest in the platform, and left after doing this.
 
-- [`Link to my account`](https://www.instagram.com/seanwallawalla/) [dead link, account suspended](#Suspension)
+- [`Link to my account`](https://www.instagram.com/seanwallawalla/) [dead link, account suspended](#Suspension-2023-August-11th)
 
 </details>
 
@@ -27,7 +27,7 @@ I only used Instagram for 1 day, playing with filters, then just completely aban
 
 <details open><summary><p><b>[Click/tap here to expand/collapse the suspension section]</b></p></summary>
 
-As part of my Takeout Tuesdays project, I went to do a data takeout of my Instagram account. This takeout was successful, and I kept 2 pinned tabs open for a few days afterwards. 4 days after the takeout, on 2023, Friday, August 11th, I was cleaning up tabs, and I found this:
+As part of my [:octocat: `Takeout Tuesdays`](https://github.com/seanpm2001/Takeout_Tuesdays/) project, I went to do a data takeout of my Instagram account. This takeout was successful, and I kept 2 pinned tabs open for a few days afterwards. 4 days after the takeout, on 2023, Friday, August 11th, I was cleaning up tabs, and I found this:
 
 | <img src="/Graphics/Suspension/Screenshot%202023-08-11%20at%2012-36-39%20Instagram.png" alt="Instagram suspension picture 1" width="480" height="253"> | <img src="/Graphics/Suspension/Screenshot%20from%202023-08-11%2012-36-18.png" alt="Instagram suspension picture 2" width="480" height="270"> |
 |---|---|
@@ -38,6 +38,16 @@ I thought this was a joke, so I reloaded the page. It is official, they sent me 
 |---|---|
 
 Personally, I am happy with this. I have been wanting to completely remove my presence on Facebook platforms for a while now, and this account was completely dormant for over 5 years prior to this data takeout. Since I have a complete copy of the entire account, and that the account was suspended before I could go and delete it, Facebook has helped me get rid of my Instagram presence. My plan was to let it play out on its own, and unlike Twitter, this service has suspended my account within 5 days.
+
+I don't want to be on a platform where users are valued this little. Facebook has harvested (and even sold) user data in much more illicit ways than any of its users (except for Google, and a few others) so they don't really have the right to say this without looking like a complete idiot. It appears that Facebook prefers bots over users, so this is fine. This only increases the percentage of Instagrams bot userbase.
+
+</details>
+
+## [Account data](#Account-data)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the account data section]</b></p></summary>
+
+I am still working on scrubbing the data of sensitive information, it may take months, it may take years (I am not spending that much time on this project) Data for my Instagram account will nonetheless be made public eventually. Once ready, it will be available [here](/Instagram/SeanWallaWalla/).
 
 </details>
 
@@ -51,17 +61,17 @@ Personally, I am happy with this. I have been wanting to completely remove my pr
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `2 (2023, Friday, August 11th at 07:17 pm PST)`
+**File version:** `3 (2023, Friday, August 11th at 08:23 pm PST)`
 
-**Line count (including blank lines and compiler line):** `132`
+**Line count (including blank lines and compiler line):** `165`
 
-**Word count:** `854`
+**Word count:** `1,124`
 
-**Character count (including spaces):** `5,377`
+**Character count (including spaces):** `7,019`
 
-**Character count (excluding spaces):** `4,598`
+**Character count (excluding spaces):** `5,773`
 
-**Size (in bytes):** `5,390`
+**Size (in bytes):** `7,032`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -108,9 +118,32 @@ Personally, I am happy with this. I have been wanting to completely remove my pr
 - [x] Updated the `Former Instagram usage` section
 - [x] Added the `Suspension` section
 - [x] Converted the file version timestamp into the `File info` section
-- [x] Added the `file history` section
+- [x] Added the `File history` section
+- - [x] Added an entry for version 1
+- - [x] Added an entry for version 2
 - [x] Added the Footer
 - [ ] No other changes in version 2
+
+</details>
+
+## Version 3 (2023, Friday, August 11th at 8:23 pm PST)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the File history entry for version 3]</b></p></summary>
+
+> **Note** _Some fixes, and some text improvements, it felt incomplete._
+
+> Changes
+
+- [x] Updated the `Former Instagram usage` section
+- [x] Updated the `Suspension` section
+- [x] Added the `Account data` section
+- [x] Updated the `File info section`
+- [x] Updated the `File history` section
+- - [x] Updated the entry for version 2
+- - [x] Added an entry for version 3
+- [ ] No other changes in version 3
+
+</details>
 
 </details>
 
