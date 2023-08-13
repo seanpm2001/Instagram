@@ -41,13 +41,28 @@ Personally, I am happy with this. I have been wanting to completely remove my pr
 
 I don't want to be on a platform where users are valued this little. Facebook has harvested (and even sold) user data in much more illicit ways than any of its users (except for Google, and a few others) so they don't really have the right to say this without looking like a complete idiot. It appears that Facebook prefers bots over users, so this is fine. This only increases the percentage of Instagrams bot userbase.
 
+I also faked my age. My DoB is already public, but I was not willing to directly give it to Facebook in this way. Almost everybody fakes it anyways, so it doesn't really matter what you enter. I entered 1970/01/01
+
+<img src="/Graphics/Memes/Date-of-Birth/Giving-out-your-date-of-birth-online/PNG/HighCompression/Giving-out-your-DOB-Online_Meme_1200x1000_V1_HighCompression.png" alt="YesNo DoB" width="500" height="600">
+
+I spent way too much time documenting this meme as well. If you want, you can read more about it [`here`](/Graphics/Memes/Date-of-Birth/Giving-out-your-date-of-birth-online/README.md) and also [`here`](Graphics/Memes/Date-of-Birth/Giving-out-your-date-of-birth-online/Project_Files/Resource_Files/Template/README.md).
+
+This, however, isn't related to the ban, as they said nothing in the suspension notice about giving a fake date of birth. Even then, it would further confirm the illegal data harvesting they do on their users and non-users if this was stated.
+
+About the appeal process, I updated this document twice yesterday, and both times forgot to mention this: I am not going to even attempt to appeal, as it simply isn't worth my time. Talking to a bot about what a bot said you did wrong is going to go nowhere. It isn't going to change its mind.
+
+I am updating this file extensively, as I now plan to combat Facebook more publicly, and this is my staging ground for starting to do so.
+
 </details>
 
 ## [Account data](#Account-data)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse the account data section]</b></p></summary>
 
-I am still working on scrubbing the data of sensitive information, it may take months, it may take years (I am not spending that much time on this project) Data for my Instagram account will nonetheless be made public eventually. Once ready, it will be available [here](/Instagram/SeanWallaWalla/).
+I am still working on scrubbing the data of sensitive information, it may take months, it may take years (I am not spending that much time on this project) Data for my Instagram account will nonetheless be made public eventually. Once ready, it will be available [`here`](/Instagram/SeanWallaWalla/).
+
+- [`HTML data`](/Instagram/SeanWallaWalla/HTML/)
+- [`JSON data`](/Instagram/SeanWallaWalla/JSON/)
 
 </details>
 
@@ -61,17 +76,17 @@ I am still working on scrubbing the data of sensitive information, it may take m
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `3 (2023, Friday, August 11th at 08:23 pm PST)`
+**File version:** `4 (2023, Saturday, August 12th at 06:58 pm PST)`
 
-**Line count (including blank lines and compiler line):** `165`
+**Line count (including blank lines and compiler line):** `215`
 
-**Word count:** `1,124`
+**Word count:** `1,610`
 
-**Character count (including spaces):** `7,019`
+**Character count (including spaces):** `9,807`
 
-**Character count (excluding spaces):** `5,773`
+**Character count (excluding spaces):** `8,314`
 
-**Size (in bytes):** `7,032`
+**Size (in bytes):** `9,830`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -142,6 +157,41 @@ I am still working on scrubbing the data of sensitive information, it may take m
 - - [x] Updated the entry for version 2
 - - [x] Added an entry for version 3
 - [ ] No other changes in version 3
+
+</details>
+
+<!-- Notes 2023.08.12
+inst
+
+I went and updated the file a second time today as well. I again (twice) forgot to mention the appeal process, but I already extensively said why I wasn’t going back on the platform. However, there was 1 detail I forgot to mention:
+
+What may have caused the problem:
+
+When it asked for my birth year, I gave them 1970, January 1st 
+ 
+Faking your age online (2 panel webcomic)
+
+1969, April 20th ❌️ |  1970, January 1st ✅️
+!-->
+
+## Version 4 (2023, Saturday, August 12th at 6:58 pm PST)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the File history entry for version 4]</b></p></summary>
+
+> **Note** _There were some details I missed, and I want this document to be perfect. I was hoping I wouldn't have to touch this repository again today, but another update was made._
+
+> Changes
+
+- [x] Updated the `Former Instagram usage` section
+- [x] Updated the `Suspension` section
+- - [x] Added information on the DoB incident
+- - [x] Added information on the appeal process
+- [x] Updated the `Account data` section
+- - [x] Added separate links for HTML and JSON
+- [x] Updated the `File info section`
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 4
+- [ ] No other changes in version 4
 
 </details>
 
